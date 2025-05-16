@@ -1,10 +1,11 @@
 # OpenCONVOS
 
-OpenCONVOS generator is used for generating random conversations from an existing datasets<br>
+OpenCONVOS is an online directory in which people can view, submit and share conversations<br>
 
-Source indicates the URL from which the conversation was retrieved.<br>
-Names of interlocutors are displayed in comma-seperated format.
+Each conversation consists of a title, speaker names and the actual dialoge<br>
+Source URLs and tags are also included.
+People who are logged-in in tumblr are able to like or reblog conversations.
 
 # Screenshot
 
-![alt tag](https://raw.githubusercontent.com/EntityAPPS/openconvos/main/example.png)
+![alt tag](https://raw.githubusercontent.com/EntityAPPS/openconvos/main/screenshot.png)
